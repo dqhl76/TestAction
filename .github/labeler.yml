@@ -6,3 +6,7 @@ labels:
     - '\bfix'
   'feature':
     - '\bfeat'
+  'chore':
+    - '\bchore'
+  'document':
+    - '\bdocs'
